@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dtcristian1982-ux.github.io/sitemap.xml
